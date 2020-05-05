@@ -16,7 +16,6 @@ This project was created for educational purposes. Not recommended for everyday 
 - Offline messages
 - Message history
 - Connection via proxy
-- Internet server discovery
 
 ## Build instructions
 1. Install required components:
